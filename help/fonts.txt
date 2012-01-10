@@ -1,0 +1,13 @@
+File,Fonts
+holiday_season_final.psd,MilkScript,Regular,MilkScriptAlternate,Regular,RockwellStd,Regular,Knockout,HTF66-FullFlyweight,RockwellStd,Bold,Knockout,HTF26-JuniorFlyweight,Knockout,HTF27-JuniorBantamwt,Rockwell,Bold,Rockwell,Regular,Arial,Regular,Arial,Regular,Arial,Bold
+
+List of fonts used in all documents
+Arial,Regular
+Knockout,HTF26-JuniorFlyweight
+Knockout,HTF27-JuniorBantamwt
+Knockout,HTF66-FullFlyweight
+MilkScript,Regular
+Rockwell,Bold
+Rockwell,Regular
+RockwellStd,Bold
+RockwellStd,Regular

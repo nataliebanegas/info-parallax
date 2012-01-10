@@ -1,0 +1,678 @@
+holiday_season_final.psd
+
+-----------------------------------------------------------
+
+
+h2 {color: #FFFFFF;
+font: 35px/17px MilkScript;
+}
+
+<h2>this Holiday Season from your friends at </h2>
+
+
+
+p {color: #FFFFFF;
+font: 16px/22px RockwellStd;
+}
+
+<p>Consumers are turning to online storefronts as their primary means of holiday shopping.  Given the increase of online shoppers over the past few years, it’s beneficial to understand what web security issues exist and the potential consequences associated with them.  It’s best to educate yourself now to prevent any mishaps from happening during this hectic time of year. Hectic, yet joyous, time of year.</p>
+
+
+
+h1 {color: #B7EDFF;
+font: htf66-fullflyweight 134px/21px Knockout;
+text-transform: uppercase;
+}
+
+<h1> Safe Online Shopping Experience</h1>
+
+
+
+span {color: #FEFEFE;
+font: bold 24px/21px RockwellStd;
+text-transform: uppercase;
+}
+
+<span>Have a</span>
+
+
+
+h2 {color: #CB2C16;
+font: 36px/21px MilkScript;
+}
+
+<h2>Online Holiday Spending up From Last Year</h2>
+
+
+
+td {color: #FFFFFF;
+font: bold 25px/21px RockwellStd;
+}
+
+nullnull
+
+
+
+td {color: #FFFFFF;
+font: bold 25px/21px RockwellStd;
+}
+
+nullnull
+
+
+
+{color: #3AAACF;
+font: htf66-fullflyweight 260px/19px Knockout;
+text-transform: uppercase;
+}
+|||15%|||
+
+
+{color: #FFFFFF;
+font: htf26-juniorflyweight 69px/21px Knockout;
+}
+|||UP|||
+
+
+p {color: #08556F;
+font: htf27-juniorbantamwt 42px/21px Knockout;
+text-transform: uppercase;
+}
+
+<p>Online Holiday Shopping is</p>
+
+
+
+p {color: #054B61;
+font: htf27-juniorbantamwt 32px/21px Knockout;
+text-transform: uppercase;
+}
+
+<p>from Corresponding Days in 2010</p>
+
+
+
+th {color: #054B61;
+font: bold 18px/21px RockwellStd;
+}
+
+nullnull
+
+
+
+th {color: #054B61;
+font: bold 18px/21px RockwellStd;
+}
+
+nullnull
+
+
+
+h2 {color: #CB2C16;
+font: 36px/21px MilkScript;
+}
+
+<h2>Consumers Plan to Spend More This Holiday</h2>
+
+
+
+{color: #FFFFFF;
+font: 45px/47px MilkScript;
+}
+|||2011|||
+
+
+{color: #FFFFFF;
+font: 28px/29px MilkScript;
+}
+|||2010|||
+
+
+{color: #FFFFFF;
+font: 20px/21px MilkScript;
+}
+|||2009|||
+
+
+UP copy {color: #FFFFFF;
+font: htf26-juniorflyweight 54px/17px Knockout;
+}
+
+nullnull
+
+
+
+{color: #EE3739;
+font: bold 67px/66px Rockwell;
+text-transform: uppercase;
+}
+|||$717|||
+
+
+{color: #EE3739;
+font: bold 84px/82px Rockwell;
+text-transform: uppercase;
+}
+|||$808|||
+
+
+{color: #EE3739;
+font: bold 100px/98px Rockwell;
+text-transform: uppercase;
+}
+|||$854|||
+
+
+{color: #2EA5CC;
+font: htf27-juniorbantamwt 188px/184px Knockout;
+text-transform: uppercase;
+}
+|||6%|||
+
+
+p {color: #035D7A;
+font: htf27-juniorbantamwt 45px/44px Knockout;
+text-transform: uppercase;
+}
+
+<p>average planned<br />spending amount<br />from 2010</p>
+
+
+
+h2 {color: #CB2C16;
+font: 36px/21px MilkScript;
+}
+
+<h2>More Shoppers are Turning to Social &amp; Deal-Centric Resources</h2>
+
+
+
+{color: #C6301A;
+font: bold 82px/43px Rockwell;
+}
+|||16%|||
+
+
+th {color: #054B61;
+font: bold 18px/21px Rockwell;
+}
+
+nullnull
+
+
+
+{color: #C6301A;
+font: bold 82px/43px Rockwell;
+}
+|||28%|||
+
+
+th {color: #054B61;
+font: bold 18px/21px Rockwell;
+}
+
+nullnull
+
+
+
+{color: #C6301A;
+font: bold 82px/43px Rockwell;
+}
+|||27%|||
+
+
+th {color: #054B61;
+font: bold 18px/21px Rockwell;
+}
+
+nullnull
+
+
+
+h2 {color: #4E2B00;
+font: htf66-fullflyweight 86px/26px Knockout;
+text-transform: uppercase;
+}
+
+<h2>Spammy WEBSITES</h2>
+
+
+
+h3 {color: #4E2B00;
+font: 44px/26px MilkScript;
+}
+
+<h3>Beware of</h3>
+
+
+
+captaion {color: #FFFFFF;
+font: 36px/21px MilkScript;
+}
+
+nullnull
+
+
+
+{color: #FFFFFF;
+font: bold 24px/42px Rockwell;
+}
+|||14.40%
+13.20%
+9.80%
+9.10%
+8.60%
+7.60%
+6.90%
+5.90%
+5.30%
+5.30%
+|||
+
+
+{color: #BAF0FF;
+font: 24px/42px Rockwell;
+}
+|||Non-delivery Payment
+FBI-Related Scams
+Identity Theft
+Computer Crimes
+Miscellaneous Fraud
+Advance Fee Fraud
+Spam	
+Auction Fraud
+Credit Card Fraud
+Overpayment Fraud
+|||
+
+
+p {color: #9AE6FF;
+font: 18px/21px Rockwell;
+}
+
+<p>Make sure you have the latest version available from the manufacturer</p>
+
+
+
+h4 {color: #FFFFFF;
+font: htf27-juniorbantamwt 45px/56px Knockout;
+text-transform: uppercase;
+}
+
+<h4>USE A SECURE BROWSER</h4>
+
+
+
+{color: #1A495B;
+font: bold 25px/43px Rockwell;
+text-transform: uppercase;
+}
+|||Tip|||
+
+
+h3 {color: #FFFFFF;
+font: htf27-juniorbantamwt 168px/171px Knockout;
+text-transform: uppercase;
+}
+
+<h3>8.1 MILLION</h3>
+
+
+
+{color: #FFFFFF;
+font: bold 45px/65px Rockwell;
+}
+|||%|||
+
+
+{color: #FFFFFF;
+font: bold 74px/62px Rockwell;
+}
+|||11%|||
+
+
+figcaption {color: #FFFFFF;
+font: bold 15px/17px Rockwell;
+}
+
+nullnull
+
+
+
+p {color: #BAF0FF;
+font: htf27-juniorbantamwt 40px/20px Knockout;
+text-transform: uppercase;
+}
+
+<p>Americans Were Victims of  Identity Fraud in 2010 </p>
+
+
+
+p {color: #9AE6FF;
+font: 18px/21px Rockwell;
+}
+
+<p>Each site states how your information will be used or shared<br /></p>
+
+
+
+h4 {color: #FFFFFF;
+font: htf27-juniorbantamwt 46px/45px Knockout;
+text-transform: uppercase;
+}
+
+<h4>CHECK THE SITE’S PRIVACY POLICY</h4>
+
+
+
+Tip copy 2 {color: #1A495B;
+font: bold 25px/43px Rockwell;
+text-transform: uppercase;
+}
+
+nullnull
+
+
+
+p {color: #9AE6FF;
+font: 18px/21px Rockwell;
+}
+
+<p>The beginning of the URL should show ‘https’ to confirm the site is secure and have a lock symbol</p>
+
+
+
+h4 {color: #FFFFFF;
+font: htf27-juniorbantamwt 45px/56px Knockout;
+text-transform: uppercase;
+}
+
+<h4>Only make secure online purchases</h4>
+
+
+
+Tip copy {color: #1A495B;
+font: bold 25px/43px Rockwell;
+text-transform: uppercase;
+}
+
+nullnull
+
+
+
+{color: #FFFFFF;
+font: htf66-fullflyweight 220px/19px Knockout;
+text-transform: uppercase;
+}
+|||75%|||
+
+
+h3 {color: #FFFFFF;
+font: 36px/41px MilkScript;
+}
+
+<h3>from a Recent Online Shopping 
+&amp; Cyber-Intrusion Survey</h3>
+
+
+
+p {color: #9AE6FF;
+font: 30px/31px Rockwell;
+}
+
+<p>of participants thought that a firewall alone <br />could protect them while online</p>
+
+
+
+{color: #FFFFFF;
+font: bold 80px/62px Rockwell;
+}
+|||46%|||
+
+
+th {color: #9AE6FF;
+font: 18px/21px Rockwell;
+}
+
+nullnull
+
+
+
+{color: #FFFFFF;
+font: bold 80px/62px Rockwell;
+}
+|||23%|||
+
+
+h2 {color: #9AE6FF;
+font: 18px/21px Rockwell;
+}
+
+<h2>switched their primary bank or credit union</h2>
+
+
+
+{color: #FFFFFF;
+font: bold 80px/62px Rockwell;
+}
+|||22%|||
+
+
+th {color: #9AE6FF;
+font: 18px/21px Rockwell;
+}
+
+nullnull
+
+
+
+h2 {color: #FFFFFF;
+font: htf27-juniorbantamwt 106px/171px Knockout;
+text-transform: uppercase;
+}
+
+<h2>After suffering identity theft, </h2>
+
+
+
+h4 {color: #FFFFFF;
+font: htf27-juniorbantamwt 46px/45px Knockout;
+text-transform: uppercase;
+}
+
+<h4>Keep Records of Your Online Transactions </h4>
+
+
+
+Tip copy 3 {color: #1A495B;
+font: bold 25px/43px Rockwell;
+text-transform: uppercase;
+}
+
+nullnull
+
+
+
+{color: #FFFFFF;
+font: bold 16px/36px Rockwell;
+text-transform: uppercase;
+}
+|||2010|||
+
+
+{color: #FFFFFF;
+font: bold 16px/36px Rockwell;
+text-transform: uppercase;
+}
+|||2009|||
+
+
+{color: #FFFFFF;
+font: bold 16px/36px Rockwell;
+text-transform: uppercase;
+}
+|||2008|||
+
+
+{color: #9AE6FF;
+font: 24px/25px Rockwell;
+}
+|||A Prosecution
+Was Made|||
+
+
+{color: #9AE6FF;
+font: 24px/25px Rockwell;
+}
+|||A Conviction
+Was Made|||
+
+
+{color: #9AE6FF;
+font: 24px/25px Rockwell;
+}
+|||A Civil Suit
+Was Filed|||
+
+
+{color: #9AE6FF;
+font: 24px/25px Rockwell;
+}
+|||An Arrest
+Was Made|||
+
+
+{color: #9AE6FF;
+font: 24px/25px Rockwell;
+}
+|||A Police Report
+Was Filed|||
+
+
+{color: #9AE6FF;
+font: 24px/25px Rockwell;
+}
+|||No Legal Actions
+Were Taken|||
+
+
+h3 {color: #FFFFFF;
+font: htf27-juniorbantamwt 58px/46px Knockout;
+text-transform: uppercase;
+}
+
+<h3>FEWER FRAUD
+CONSUMERS ARE TAKING
+LEGAL ACTION</h3>
+
+
+
+h2 {color: #FFFFFF;
+font: 35px/17px MilkScript;
+}
+
+<h2>Report Problems Immediately!</h2>
+
+
+
+strong {color: #F4CF7E;
+font: bold 18px/21px Rockwell;
+text-transform: uppercase;
+}
+
+<strong>Identity FRAUD</strong>
+
+
+
+p {color: #FFFFFF;
+font: 16px/19px Rockwell;
+}
+
+<p>Actual misuse of information for financial gain and occurs when criminals use illegally obtained personal information to make purchases or withdrawals, create false accounts or modify existing ones and/or attempt to obtain services such as employment or health care.</p>
+
+
+
+strong {color: #F4CF7E;
+font: bold 18px/21px Rockwell;
+text-transform: uppercase;
+}
+
+<strong>Identity theft</strong>
+
+
+
+p {color: #FFFFFF;
+font: 16px/19px Rockwell;
+}
+
+<p>Occurs after the exposure of personal information; typically someone’s personal information is taken by another individual without explicit permission.</p>
+
+
+
+h3 {color: #B9E1FF;
+font: 22px/21px Rockwell;
+}
+
+<h3>The Fair Credit Billing Act (FCBA) and Electronic Fund Transfer Act (EFTA) 
+
+These both establish protections against lost or stolen credit or debit cards, and procedures for resolving errors on credit and bank account statements.
+</h3>
+
+
+
+ul li a {color: #63849C;
+font: 11px/17px Arial;
+}
+
+<ul>
+<li>
+<a href="#">Sources:</a>
+</li>
+<li><a href="#">http://www.thinkwithgoogle.com/insights/library/studies/2011-holiday-consumer-intentions/</a>
+</li>
+<li><a href="#">http://www.anonymizer.com/company/press-release/press-release-october-24-2011</a>
+</li>
+<li><a href="#">http://www.ic3.gov/media/annualreport/2010_IC3Report.pdf</a>
+</li>
+<li><a href="#">https://www.javelinstrategy.com/brochure/192</a>
+</li>
+<li><a href="#">http://www.idtheftcenter.org/artman2/publish/lib_survey/Press_Release_-_The_Aftermath_2004_Study.shtml</a>
+</li>
+<li><a href="#">http://www.comscore.com/Press_Events/Press_Releases/2011/12/U.S._Online_Holiday_Spending_Approaches_20_Billion_for_First_34_Days</a>
+</li>
+<li><a href="#"></a>
+</li>
+</ul>
+
+
+
+p {color: #424242;
+font: 14px/21px Arial;
+}
+
+<p>For More Online Safety and Security Tips, visit Home Security Source at homesecuritysource.com</p>
+
+
+
+
+
+ul li a {color: #1265A6;
+font: bold 14px/21px Arial;
+}
+
+<ul>
+<li>
+<a href="#">adt.com       </a>
+</li>
+<li><a href="#">facebook.com/adt          </a>
+</li>
+<li><a href="#">twitter.com/adtstaysafe          </a>
+</li>
+<li><a href="#">youtube.com/adt</a>
+</li>
+<li><a href="#"></a>
+</li>
+</ul>
+
+
+
